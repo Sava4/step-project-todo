@@ -2,9 +2,6 @@
   "name": "razzle-examples-with-scss",
   "version": "3.0.0",
   "license": "MIT",
-  "engines": {
-    "node": "8.x"
-  },
   "scripts": {
     "start": "razzle start",
     "build": "razzle build",
